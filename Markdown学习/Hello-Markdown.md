@@ -152,7 +152,7 @@ echo 'test';
 
 }
 
-~~~javascript
+
 ``` javascript
 $(document).ready(function () {
     alert('RUNOOB');
@@ -338,3 +338,4 @@ Note right of C: 没人陪我玩
 ```
 
 这个是主要[参考网站][https://www.runoob.com/markdown/md-advance.html]
+~~~
