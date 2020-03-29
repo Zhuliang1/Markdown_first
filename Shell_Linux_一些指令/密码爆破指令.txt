@@ -1,0 +1,3 @@
+./pdfcrack -f 厦门大学844自动控制原理历年考研真题汇编.pdf -w ZD_Tirom_Merger+Trim_8-16_v09d.dic
+./pdfcrack -f 厦门大学844自动控制原理历年考研真题汇编.pdf -c abcdefghijklmnopqrstuvwxyz
+./pdfcrack -f 厦门大学844自动控制原理历年考研真题汇编.pdf -n 5 -m 8 -c 0123456789abcdefghijklmnopqrstuvwxyz

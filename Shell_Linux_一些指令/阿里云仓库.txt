@@ -1,0 +1,1 @@
+git clone git@1xxxxxxxx:/home/git/sample.git
